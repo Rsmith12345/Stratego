@@ -51,6 +51,9 @@ Computer 2:
 After both clients have connected, you can play!  The same first 2 notes on the important notes section in the display version section apply.
 
 ### Screenshots
+
+PLEASE SEE SCREENSHOT PNG FILES IN THE REPO!
+
 ### The Future
 
 * add a looping mechanism so the game can easily be played multiple times without having to terminate and run the server and clients everytime
