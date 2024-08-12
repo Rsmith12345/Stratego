@@ -4,16 +4,16 @@ Date: 7/22/2024
 
 ### Introductory Description
 
-Welcome to Stratego: Lightning edition! This Java program is a 2-player version of the classic board game Stratego. \
-It utilizes Graphical User Interfaces (GUIs), socket programming techniques, and threads to create a fun, interactive \
-game!  This specific variant uses 20 pieces and has other minor rule modifications to offer a faster-paced experience \
+Welcome to Stratego: Lightning edition! This Java program is a 2-player version of the classic board game Stratego. 
+It utilizes Graphical User Interfaces (GUIs), socket programming techniques, and threads to create a fun, interactive 
+game!  This specific variant uses 20 pieces and has other minor rule modifications to offer a faster-paced experience 
 compared to the original version.
 
 ### How to Use (Display Version)
 
-This game was programmed in an IDE, but can easily be run using the terminal as well. \
-To easily display the game's features, its currently configured to be run on one computer. \
-However, given the nature of the game, to actually play with a friend, it needs to be run on 2 computers. \
+If you want the most seamleess player experience and have a second computer/friend to play with, skip to the "How to Use (Real Version)" Section.
+To easily display the game's features, it's currently configured to be run on one computer. 
+However, given the nature of the game, to actually play with a friend, it needs to be run on 2 computers. 
 See the "How to Use (Real Version)" for that setup... 
 
 1) Clone the repository
